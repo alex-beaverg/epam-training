@@ -5,6 +5,3 @@ it is an important system.
 
 Git has got a Git User Interfase!
 It is fine!
-It is very coool!
-It is super interface!
----------------------------------
