@@ -1,0 +1,2 @@
+Alex has got a notebook.
+Alex learns git.
