@@ -2,12 +2,3 @@ Alex has got a notebook.
 Alex learns git.
 Git is a nice system.
 it is an important system.
-
-This is a branch!
-There is a new commit in the branch.
-
-Git has got a Git User Interfase!
-It is fine!
-It is very coool!
-It is super interface!
----------------------------------
