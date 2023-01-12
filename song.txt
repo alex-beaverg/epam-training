@@ -6,3 +6,5 @@ it is an important system.
 this is main commit!
 
 this is feature commit.
+
+for tags only
